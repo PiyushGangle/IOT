@@ -1,3 +1,11 @@
+# Introduction
+Deforestation and uncontrollable fires have devastated many parts of India over the past decade,
+causing severe damage to forest ecosystems. This includes the release of carbon locked in the biomass.
+Our team has read various solutions that are proposed yet to overcome this problem. After analysing
+these solutions we have developed Machine learning enabled Internet of Things system which is capable
+to detect forest fire (based on environment’s climatic conditions like humidity and temperature) and
+prevent illegal logging by detecting chainsaw sound.
+
 # meeting notes
 
 ## 2021.10.21
